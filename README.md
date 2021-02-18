@@ -1,7 +1,9 @@
 
 ## To run this project
+1. install nodemodules on both package
+2. run gateyway
+3. run server
 ```
-run gateyway
 npm run dev 
 
 cd fakeapi
