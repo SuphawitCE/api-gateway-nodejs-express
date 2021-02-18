@@ -4,7 +4,7 @@
 2. run gateyway
 3. run server
 
-gateway run on port 3000
+gateway run on port 3000,
 server run on port 3001
 
 ```
