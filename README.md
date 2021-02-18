@@ -3,6 +3,10 @@
 1. install nodemodules on both package
 2. run gateyway
 3. run server
+
+gateway run on port 3000
+server run on port 3001
+
 ```
 npm run dev 
 
